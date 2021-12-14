@@ -1,0 +1,14 @@
+{
+  "name": "mqtt-nodejs",
+  "version": "1.0.0",
+  "description": "Learning mqtt with nodejs and mqtt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Paulino",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.2.8"
+  }
+}
